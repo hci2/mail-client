@@ -1,6 +1,6 @@
 # MailClient - Private Project
 
-
+![mail-client_icon](https://user-images.githubusercontent.com/19223435/134487895-331b2693-8a2b-40ac-a8c5-ee5565c4d601.jpg)
 
 ## Description
 
